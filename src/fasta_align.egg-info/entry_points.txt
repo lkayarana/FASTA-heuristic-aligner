@@ -1,0 +1,2 @@
+[console_scripts]
+fasta-align = fasta_align.cli:main
